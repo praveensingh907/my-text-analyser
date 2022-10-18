@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "//my-text-analyser/static/js/main.f39dd6cb.js",
+    "static/js/787.28cb0dcd.chunk.js": "//my-text-analyser/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "//my-text-analyser/index.html",
+    "main.f39dd6cb.js.map": "//my-text-analyser/static/js/main.f39dd6cb.js.map",
+    "787.28cb0dcd.chunk.js.map": "//my-text-analyser/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f39dd6cb.js"
+  ]
+}
