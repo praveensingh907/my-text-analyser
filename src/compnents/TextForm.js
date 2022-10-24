@@ -5,10 +5,6 @@ export default function TextForm(props) {
 
     const [Text,setText]= useState("");
 
-
-    
-  
-
     const handleUpClick = ()=>{
         let newText = Text.toUpperCase();
         setText(newText);
